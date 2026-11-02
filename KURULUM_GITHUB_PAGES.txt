@@ -1,0 +1,15 @@
+NETKOÇ AI WEB SAYFALARI
+
+Hazır destek e-postası: netkocdestek@gmail.com
+Politika tarihi: 23 Ekim 2026
+
+GitHub Pages için:
+1. Yeni ve herkese açık bir depo oluşturun: netkoc-legal
+2. index.html, gizlilik-politikasi.html ve hesap-silme.html dosyalarını yükleyin.
+3. Depoda Settings > Pages bölümüne gidin.
+4. Kaynak olarak Deploy from a branch seçin.
+5. Branch: main, klasör: /(root) seçip Save düğmesine basın.
+6. Oluşan HTTPS adreslerini Play Console alanlarında kullanın.
+
+Gizlilik politikası: /gizlilik-politikasi.html
+Hesap silme: /hesap-silme.html
